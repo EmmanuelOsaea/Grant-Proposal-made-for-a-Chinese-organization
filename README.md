@@ -27,12 +27,13 @@ This proposal outlines a sustainable energy program that seeks to bring clean, a
 The project aims to support China's ambitious goal of achieving carbon neutrality by 2060, with direct benefits including reducing pollution, improving public health, and fostering economic resilience in rural areas. The funding requested will be used to implement the project across 20 villages over the next three years.
 
 **Funding Requested:** ¥135000
+
 **Project Duration:** 2months
 
 ---
 
 ### **II. Organizational Background**
-China Green Foundation(CGF) was established in [year] to promote environmental sustainability and improve living conditions in China’s rural areas. We have successfully implemented several community development projects in partnership with local governments and international NGOs. Our expertise lies in renewable energy, environmental education, and community empowerment.
+China Green Foundation(CGF) was established in China Green Foundation(CGF)  to promote environmental sustainability and improve living conditions in China’s rural areas. We have successfully implemented several community development projects in partnership with local governments and international NGOs. Our expertise lies in renewable energy, environmental education, and community empowerment.
 
 **Mission Statement:**  
 To promote sustainable development in China through green energy solutions and community-based environmental initiatives.
