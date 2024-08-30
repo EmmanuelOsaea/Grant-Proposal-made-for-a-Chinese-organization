@@ -12,12 +12,12 @@ This project depicts how to effectively use AI and google to create a competitiv
 Advancing Green Communities: A Sustainable Energy Program for Rural China
 
 **Submitted by:**  
-[China Green Foundation(CGF)]  
-[No18 Hepingli East St, Dongcheng District, Beijing 100174, China.  ]  
-[Contact Information:  http://www.cgf.org.cn ]
+China Green Foundation(CGF)  
+No18 Hepingli East St, Dongcheng District, Beijing 100174, China.   
+Contact Information:  http://www.cgf.org.cn 
 
 **Date:**  
-[Friday, Aug 30]
+Friday, Aug 30
 
 ---
 
@@ -26,13 +26,13 @@ This proposal outlines a sustainable energy program that seeks to bring clean, a
 
 The project aims to support China's ambitious goal of achieving carbon neutrality by 2060, with direct benefits including reducing pollution, improving public health, and fostering economic resilience in rural areas. The funding requested will be used to implement the project across 20 villages over the next three years.
 
-**Funding Requested:** ¥[135000]  
-**Project Duration:** [2months]
+**Funding Requested:** ¥135000
+**Project Duration:** 2months
 
 ---
 
 ### **II. Organizational Background**
-[Chinese Organization’s Name] was established in [year] to promote environmental sustainability and improve living conditions in China’s rural areas. We have successfully implemented several community development projects in partnership with local governments and international NGOs. Our expertise lies in renewable energy, environmental education, and community empowerment.
+China Green Foundation(CGF) was established in [year] to promote environmental sustainability and improve living conditions in China’s rural areas. We have successfully implemented several community development projects in partnership with local governments and international NGOs. Our expertise lies in renewable energy, environmental education, and community empowerment.
 
 **Mission Statement:**  
 To promote sustainable development in China through green energy solutions and community-based environmental initiatives.
@@ -91,12 +91,12 @@ Data collection methods will involve surveys, interviews, and regular field asse
 
 | **Item**                          | **Cost (¥)** |
 |-----------------------------------|--------------|
-| Solar Panel Installation          | ¥[10000] |
-| Community Training and Workshops  | ¥[15000] |
-| Technician Training and Equipment | ¥[20000] |
-| Monitoring and Evaluation         | ¥[25000] |
-| Administrative Costs              | ¥[30000] |
-| **Total**                         | ¥[35000] |
+| Solar Panel Installation          | ¥10000 |
+| Community Training and Workshops  | ¥15000 |
+| Technician Training and Equipment | ¥20000 |
+| Monitoring and Evaluation         | ¥25000 |
+| Administrative Costs              | ¥30000 |
+| **Total**                         | ¥35000 |
 
 ---
 
